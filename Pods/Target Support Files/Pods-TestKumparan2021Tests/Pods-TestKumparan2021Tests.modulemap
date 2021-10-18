@@ -1,0 +1,6 @@
+framework module Pods_TestKumparan2021Tests {
+  umbrella header "Pods-TestKumparan2021Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
